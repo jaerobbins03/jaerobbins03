@@ -12,7 +12,10 @@
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
 <h2>📃 Certifications:</h2>
-- <b>Google Cybersecurity Professional Certificate</b>
+
+<b>Google Cybersecurity Professional Certificate</b>
+  - [Google Cybersecurity Professional Certificate](https://github.com/jaerobbins03/certifications)
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
