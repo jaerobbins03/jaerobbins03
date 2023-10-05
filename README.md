@@ -7,7 +7,8 @@
     - [Password Generator](https://github.com/jaerobbins03/password_generator)
   - <b>OOP Coffee Maker Project</b>
     - [Coffee Maker](https://github.com/jaerobbins03/coffee_maker)
-
+  - <b>Hangman</b>
+    -[Hangman] (https://github.com/jaerobbins03/hangman)
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
