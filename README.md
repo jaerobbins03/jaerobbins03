@@ -8,7 +8,9 @@
   - <b>OOP Coffee Maker Project</b>
     - [Coffee Maker](https://github.com/jaerobbins03/coffee_maker)
   - <b>Hangman</b>
-    -[Hangman](https://github.com/jaerobbins03/hangman)
+    - [Hangman](https://github.com/jaerobbins03/hangman)
+  - <b>Pong</b>
+    - [Pong](https://github.com/jaerobbins03/pong)
 
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
