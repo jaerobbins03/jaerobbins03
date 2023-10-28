@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jaelon! 
 <h2>👨‍💻 Software Development Projects:</h2>
   
-- <h2><b>Python</b></h2>
+- <h2><b>Python Projects</b></h2>
   
   - <b>Passsword Generator Project</b>
     - [Password Generator](https://github.com/jaerobbins03/password_generator)
