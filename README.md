@@ -14,7 +14,7 @@
   - <b>Caesar Cipher</b>
     - [Caesar Cipher](https://github.com/jaerobbins03/caesar-cipher)
   - <b>Secret Auction</b>
-    -[Seceret Auction](https://github.com/jaerobbins03/secret_auction)
+    - [Seceret Auction](https://github.com/jaerobbins03/secret_auction)
     
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
