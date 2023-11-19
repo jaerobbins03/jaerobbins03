@@ -20,7 +20,9 @@
   - <b>Capstone: Turtle Crossing</b>
     - [Capstone: Turtle Crossing](https://github.com/jaerobbins03/capstone-turtle-crossing)
   - <b>Flash Card Game</b>
-    - [Flash Card Game](https://github.com/jaerobbins03/flash-card-game))
+    - [Flash Card Game](https://github.com/jaerobbins03/flash-card-game)
+  -<b>Birthday Wisher</b>
+    - [Birthdya Wisher](https://github.com/jaerobbins03/birthday-wisher-end))
     
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
