@@ -15,6 +15,8 @@
     - [Caesar Cipher](https://github.com/jaerobbins03/caesar-cipher)
   - <b>Secret Auction</b>
     - [Seceret Auction](https://github.com/jaerobbins03/secret_auction)
+  - <b>Higher-Lower Game</b>
+    -[Higher-Lower Game](https://github.com/jaerobbins03/higher-lower-game)
     
 <h2>👨🏽‍💻 Cybersecurity Projects:</h2>
 
